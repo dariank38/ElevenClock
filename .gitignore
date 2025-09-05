@@ -9,7 +9,6 @@ elevenclock\lang\__pycache__\*
 __init__
 ElevenClock.zip
 *.code-workspace
-elevenclock/.vscode/launch.json
 elevenclock/lang/lang_backup*
 
 # generate_release.py
@@ -28,7 +27,10 @@ APIKEY.txt
 ElevenClock.Installer.exe
 __init__.exe
 ElevenClock.Installer.exe.zip
-.vscode/launch.json
 .vs/
 scripts/APIKEY.txt
 sign.cmd.lnk
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
